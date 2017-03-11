@@ -23,7 +23,7 @@ If you want to run the examples you will need node and npm.
 ## Examples
 
 * [Hello world](examples/01helloworld)
-* JSX
+* [JSX](examples/02jsx)
 * Function components
 * Props
 * Proptypes

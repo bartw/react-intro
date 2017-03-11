@@ -3,7 +3,7 @@
 In this example I'm going to remove the "Hello world" from index.html and render it using React.
 
 First I'm going to make the index.html ready for React. 
-I replace the <h1> with a div with id root. This is the hook for React application.
+I replace the "h1" with a div with id root. This is the hook for React application.
 
 ```html
 <!DOCTYPE html>
