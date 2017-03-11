@@ -16,7 +16,7 @@ To follow this guide a basic understanding of html and javascript is needed.
 
 If you want to run the examples you will need node and npm.
 
-## What and how?
+## [What and how?(whathow)
 
 ## Tooling
 
@@ -34,3 +34,7 @@ If you want to run the examples you will need node and npm.
 * State
 * Forms
 * Lifting state up
+
+## License
+
+This repo is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
