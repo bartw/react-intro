@@ -24,7 +24,7 @@ If you want to run the examples you will need node and npm.
 
 * [Hello world](examples/01helloworld)
 * [JSX](examples/02jsx)
-* Function components
+* [Functional components](examples/03functionalcomponents)
 * Props
 * Proptypes
 * Lists

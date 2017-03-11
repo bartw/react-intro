@@ -1,4 +1,4 @@
-# Hello world
+# JSX
 
 In this example I'm going to introduce JSX syntax.
 
