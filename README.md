@@ -16,7 +16,7 @@ To follow this guide a basic understanding of html and javascript is needed.
 
 If you want to run the examples you will need node and npm.
 
-## [What and how?(whathow)
+## [What and how?](whathow)
 
 ## Tooling
 
