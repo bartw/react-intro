@@ -18,7 +18,7 @@ If you want to run the examples you will need node and npm.
 
 ## [What and how?](whathow)
 
-## Tooling
+## [Tooling](tooling)
 
 ## Examples
 
