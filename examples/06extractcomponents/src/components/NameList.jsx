@@ -1,7 +1,8 @@
 import React from 'react';
+import NameListItem from './NameListItem';
 
 const NameList = ({ names }) => {
-    const listItems = names.map((name) => <li key={name}>{name}</li>);
+    const listItems = names.map((name) => <NameListItem key={name} name={name} />);
     return (
         <ul>
             {listItems}

@@ -28,6 +28,6 @@ Because I only need the name property from the props, I can ES6-ify my hello-com
 ```js
 import React from 'react';
 
-const Hello = ({name}) => <h1>Hello {name}!</h1>;
-export default Hello; 
+const Hello = ({ name }) => <h1>Hello {name}!</h1>;
+export default Hello;
 ```

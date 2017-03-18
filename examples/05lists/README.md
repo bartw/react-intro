@@ -10,8 +10,8 @@ The list names is passed using the props and we can map this list to list of li 
 ```js
 import React from 'react';
 
-const NameList = (props) => {
-    const listItems = props.names.map((name) => <li>{name}</li>);
+const NameList = ({ names }) => {
+    const listItems = names.map((name) => <li>{name}</li>);
     return (
         <ul>
             {listItems}
@@ -48,8 +48,8 @@ the name for now.
 ```js
 import React from 'react';
 
-const NameList = (props) => {
-    const listItems = props.names.map((name) => <li key={name}>{name}</li>);
+const NameList = ({ names }) => {
+    const listItems = names.map((name) => <li key={name}>{name}</li>);
     return (
         <ul>
             {listItems}
