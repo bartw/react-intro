@@ -28,12 +28,14 @@ If you want to run the examples you will need node and npm.
 * [Props](examples/04props)
 * [Lists](examples/05lists)
 * [Extract components](examples/06extractcomponents)
-* Tests
+* [Tests](examples/07tests)
 * Class components
 * Proptypes
 * State
 * Forms
 * Lifting state up
+* Component lifecycle
+* Higher order components
 
 ## License
 

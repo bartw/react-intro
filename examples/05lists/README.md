@@ -28,7 +28,7 @@ import React from 'react';
 import Hello from './Hello';
 import NameList from './NameList';
 
-const names = ['Jan', 'Piet', 'Joris', 'Korneel'];
+const names = ['Ash', 'Linda', 'Cheryl', 'Scotty', 'Shelly'];
 
 const App = () => (
     <div>
