@@ -27,7 +27,7 @@ If you want to run the examples you will need node and npm.
 * [Functional components](examples/03functionalcomponents)
 * [Props](examples/04props)
 * [Lists](examples/05lists)
-* [Extract components](06extractcomponents)
+* [Extract components](examples/06extractcomponents)
 * Tests
 * Class components
 * Proptypes
