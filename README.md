@@ -29,8 +29,8 @@ If you want to run the examples you will need node and npm.
 * [Lists](examples/05lists)
 * [Extract components](examples/06extractcomponents)
 * [Tests](examples/07tests)
+* [Proptypes](examples/08proptypes)
 * Class components
-* Proptypes
 * State
 * Forms
 * Lifting state up
