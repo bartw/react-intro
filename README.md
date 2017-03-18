@@ -26,11 +26,11 @@ If you want to run the examples you will need node and npm.
 * [JSX](examples/02jsx)
 * [Functional components](examples/03functionalcomponents)
 * [Props](examples/04props)
-* Proptypes
-* Lists
+* [Lists](examples/05lists)
 * Extract components
 * Tests
 * Class components
+* Proptypes
 * State
 * Forms
 * Lifting state up
